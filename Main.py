@@ -182,4 +182,5 @@ def btn(userName):
     print("Congratulations " + userName + " you have mastered this subject\nReturning to Suject Selection...")
     subjectSelection(userName)
 #This starts the program calling the main function#
+#Your code should be shorter, JK. I Love YOU #
 main()
